@@ -1,0 +1,8 @@
+streamlit>=1.35,<2
+pandas>=2,<3
+numpy>=1.26,<3
+plotly>=5.20,<7
+folium>=0.16,<1
+streamlit-folium>=0.20,<1
+branca>=0.7,<1
+statsmodels>=0.14,<1
